@@ -1,0 +1,3 @@
+# bwg-coding-club
+
+YAY!
